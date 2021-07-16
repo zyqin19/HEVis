@@ -1,2 +1,3 @@
 # HEVis
-Code for ACMMM 2021 spotlight paper: Learning Hierarchical Embeddings for Video Instance Segmentation
+Code for ACMMM 2021 paper: Learning Hierarchical Embeddings for Video Instance Segmentation
+![img/arch.png]()
